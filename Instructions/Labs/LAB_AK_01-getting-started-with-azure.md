@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 01: Getting Started with Azure'
-    module: 'Module 1: Introduction to IoT and Azure IoT Services'
----
-
 # Getting Started with Azure
 
 ## Lab Scenario
